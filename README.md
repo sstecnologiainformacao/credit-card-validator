@@ -1,18 +1,3 @@
-# credit-card-validator
-This app has the function to validate credit card numbers.
-
-To run the app you need:
-Clone this repository.
-Go to the backend folder and execute the following commands:
-yarn install
-yarn run start
-
-Go back the main folder and go to the frontend folder
-Execute the following commands:
-yarn install
-yarn run build
-yarn run start
-
 # Credit Card Validator
 
 This app provides functionality to validate credit card numbers.
