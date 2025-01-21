@@ -1,0 +1,23 @@
+### validation - valid credit card number
+
+POST http://localhost:3001/creditcard
+Content-Type: application/json
+
+{
+    "cardNumber": "374245455400126"
+}
+
+### validation - valid credit card number
+
+
+POST http://localhost:3001/creditcard
+Content-Type: application/json
+
+{
+    "cardNumber": "374245455400127"
+}
+
+### get patterns of credit card number 
+
+GET http://localhost:3001/creditcard/patterns
+Content-Type: application/json
